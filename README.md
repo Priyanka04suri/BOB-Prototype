@@ -2,7 +2,7 @@
 ## Installation
 Running the app locally by cloning the Github repo
 
-## Enter your Gemini API in config.py
+## Create and Enter your Gemini API in .env file
 
 const API_KEY = 'ENTER YOUR Gemini API';
 ## Create a virtual environment for python:
